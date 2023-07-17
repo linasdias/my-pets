@@ -1,0 +1,32 @@
+[
+  {
+    "color": "white",
+    "type": "cat",
+    "size": "nano",
+    "name": "Lua"
+  },
+  {
+    "color": "lightbrown",
+    "type": "cat",
+    "size": "nano",
+    "name": "Loki"
+  },
+  {
+    "color": "black",
+    "type": "clippy",
+    "size": "nano",
+    "name": "Buddy"
+  },
+  {
+    "color": "gray",
+    "type": "totoro",
+    "size": "nano",
+    "name": "Totoro"
+  },
+  {
+    "color": "red",
+    "type": "fox",
+    "size": "nano",
+    "name": "Scarlet"
+  }
+]
